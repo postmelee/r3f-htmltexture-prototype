@@ -14,6 +14,12 @@ Source repo:
 https://github.com/postmelee/r3f-htmltexture-prototype
 ```
 
+Drei Discussion:
+
+```txt
+https://github.com/pmndrs/drei/discussions/2740
+```
+
 The prototype intentionally validates only the **visual-only** MVP:
 
 - mount React DOM under the R3F canvas
