@@ -118,11 +118,11 @@ Without that flag/API support, the demo should show the unsupported fallback dia
 
 ### Supported path
 
-![Supported HTMLTexture path](https://raw.githubusercontent.com/postmelee/r3f-htmltexture-prototype/main/screenshots/htmltexture-supported-ready.png)
+![Supported HTMLTexture path](https://raw.githubusercontent.com/postmelee/r3f-htmltexture-prototype/main/screenshots/htmltexture-supported-ready.png?v=2)
 
 ### Unsupported fallback
 
-![Unsupported fallback](https://raw.githubusercontent.com/postmelee/r3f-htmltexture-prototype/main/screenshots/htmltexture-unsupported-fallback.png)
+![Unsupported fallback](https://raw.githubusercontent.com/postmelee/r3f-htmltexture-prototype/main/screenshots/htmltexture-unsupported-fallback.png?v=2)
 
 ## Prototype findings
 
@@ -145,4 +145,3 @@ The browser-visible source element would need to stay synchronized with the rend
 3. What unsupported-browser behavior would fit Drei best: return `null`, expose status, warn once, or some combination?
 
 If this direction makes sense, I can open a focused first PR for the visual-only helper and keep interaction out of scope.
-
