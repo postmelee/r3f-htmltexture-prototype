@@ -20,6 +20,12 @@ Drei Discussion:
 https://github.com/pmndrs/drei/discussions/2740
 ```
 
+Drei Feature Request:
+
+```txt
+https://github.com/pmndrs/drei/issues/2741
+```
+
 The prototype intentionally validates only the **visual-only** MVP:
 
 - mount React DOM under the R3F canvas
