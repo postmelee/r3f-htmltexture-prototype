@@ -129,6 +129,11 @@ Source:
 
 https://github.com/postmelee/r3f-htmltexture-prototype
 
+Screenshots:
+
+- Supported path: https://github.com/postmelee/r3f-htmltexture-prototype/blob/main/screenshots/htmltexture-supported-ready.png
+- Unsupported fallback: https://github.com/postmelee/r3f-htmltexture-prototype/blob/main/screenshots/htmltexture-unsupported-fallback.png
+
 To see the successful path, open the live prototype in Chrome with:
 
 ```txt

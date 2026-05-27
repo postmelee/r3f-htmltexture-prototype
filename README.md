@@ -71,6 +71,11 @@ Expected unsupported behavior:
 
 Two paths have now been verified.
 
+Screenshots:
+
+- supported path: [`screenshots/htmltexture-supported-ready.png`](./screenshots/htmltexture-supported-ready.png)
+- unsupported fallback: [`screenshots/htmltexture-unsupported-fallback.png`](./screenshots/htmltexture-unsupported-fallback.png)
+
 ### Unsupported path
 
 In the Codex in-app browser, HTML-in-Canvas was unavailable:
